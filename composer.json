@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zendservice-google-gcm",
+    "name": "digistorm/zendservice-google-gcm",
     "description": "OOP wrapper for Google Cloud Messaging",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -18,7 +18,7 @@
         "forum": "https://discourse.zendframework.com/c/questions/components"
     },
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^5.6 || ^7.0 || ^8.0",
         "zendframework/zend-http": "^2.0",
         "zendframework/zend-json": "^2.0 || ^3.0"
     },
